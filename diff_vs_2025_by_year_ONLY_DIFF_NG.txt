@@ -1,0 +1,44 @@
+=== Compare vs 2025 (BIDIRECTIONAL) ===
+A) Codes in 2025 that are changed or missing in another year
+B) Codes in another year that do not exist in 2025
+C) Names in another year that do not exist in 2025
+
+==================== 2022 vs 2025 ====================
+[A] 2025 codes changed or missing in this year
+  None
+
+[B] Codes in 2022 but not in 2025
+  None
+
+[C] Names in 2022 but not in 2025
+  None
+
+==================== 2023 vs 2025 ====================
+[A] 2025 codes changed or missing in this year
+  None
+
+[B] Codes in 2023 but not in 2025
+  None
+
+[C] Names in 2023 but not in 2025
+  None
+
+==================== 2024 vs 2025 ====================
+[A] 2025 codes changed or missing in this year
+  None
+
+[B] Codes in 2024 but not in 2025
+  None
+
+[C] Names in 2024 but not in 2025
+  None
+
+==================== 2026 vs 2025 ====================
+[A] 2025 codes changed or missing in this year
+  None
+
+[B] Codes in 2026 but not in 2025
+  None
+
+[C] Names in 2026 but not in 2025
+  None
