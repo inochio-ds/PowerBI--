@@ -1,0 +1,7 @@
+# Ignore CSV/TXT files in specific data folders
+Added Columns/**/*.csv
+Added Columns/**/*.txt
+Latest Date/**/*.csv
+Latest Date/**/*.txt
+見通し/**/*.csv
+見通し/**/*.txt
